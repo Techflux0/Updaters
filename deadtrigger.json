@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.2.5",
+  "latest_version": "1.2.3",
   "username": "poisonmods",
   "version_code": 125,
   "update_title": "New Update Available!",
@@ -10,7 +10,7 @@
     "Optimized network usage for better speed"
   ],
   "update_required": false,
-  "download_url": "https://example.com/app/v1.2.5/update.apk",
+  "download_url": "youtube.com/@poisonmods",
   "mirror_url": "https://mirror.examplecdn.net/app/update.apk",
   "getsecret_url": "https://mirror.com",
   "release_date": "2025-10-09",
