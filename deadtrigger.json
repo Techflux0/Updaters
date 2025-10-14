@@ -9,7 +9,7 @@
     "Fixed bugs in login screen",
     "Optimized network usage for better speed"
   ],
-  "update_required": false,
+  "update_required": true,
   "download_url": "https://youtube.com/@poisonmods",
   "mirror_url": "https://mirror.examplecdn.net/app/update.apk",
   "getsecret_url": "https://mirror.com",
