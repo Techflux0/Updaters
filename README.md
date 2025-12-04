@@ -4,6 +4,3 @@ gft
 t
 modapk
 h
-h
-
-v
